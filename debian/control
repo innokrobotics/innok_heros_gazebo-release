@@ -1,0 +1,12 @@
+Source: ros-indigo-innok-heros-gazebo
+Section: misc
+Priority: extra
+Maintainer: Sabrina Heerklotz <sh@innok-robotics.de>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-roslaunch
+Homepage: http://wiki.ros.org/Robots/Innok-Heros
+Standards-Version: 3.9.2
+
+Package: ros-indigo-innok-heros-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-innok-heros-description, ros-indigo-robot-state-publisher, ros-indigo-rviz, ros-indigo-xacro
+Description: Innok Heros launch files for Gazebo6
