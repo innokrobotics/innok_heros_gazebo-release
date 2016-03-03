@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>innok_heros_gazebo</name>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <description>Innok Heros launch files for Gazebo6</description>
 
   <maintainer email="sh@innok-robotics.de">Sabrina Heerklotz</maintainer>
