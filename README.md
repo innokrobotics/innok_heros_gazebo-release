@@ -1,3 +1,24 @@
+## innok_heros_gazebo (indigo) - 1.0.4-0
+
+The packages in the `innok_heros_gazebo` repository were released into the `indigo` distro by running `/usr/bin/bloom-release innok_heros_gazebo --track inidigo --rosdistro indigo` on `Thu, 03 Mar 2016 09:14:09 -0000`
+
+The `innok_heros_gazebo` package was released.
+
+Version of package(s) in repository `innok_heros_gazebo`:
+- upstream repository: https://github.com/innokrobotics/innok_heros_gazebo.git
+- release repository: https://github.com/innokrobotics/innok_heros_gazebo-release.git
+- rosdistro version: `1.0.3-2`
+- old version: `1.0.3-2`
+- new version: `1.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## innok_heros_gazebo (indigo) - 1.0.3-2
 
 The packages in the `innok_heros_gazebo` repository were released into the `indigo` distro by running `/usr/bin/bloom-release innok_heros_gazebo --track inidigo --rosdistro indigo` on `Thu, 11 Feb 2016 17:14:49 -0000`
