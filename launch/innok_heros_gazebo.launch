@@ -22,5 +22,8 @@
   <!-- Run a python script to the send a service call to gazebo_ros to spawn a URDF robot -->
   <node name="urdf_spawner" pkg="gazebo_ros" type="spawn_model" respawn="false" output="screen"
 	args="-urdf -z 0.5 -model innok_heros -param robot_description"/>
+  
+  <!-- publish robot's state to tf using joint_states and robot_description-->
+  <node pkg="robot_state_publisher" type="robot_state_publisher" name="rob_st_pub" />
 
 </launch>
