@@ -1,0 +1,37 @@
+ros-indigo-innok-heros-gazebo (1.0.4-0saucy) saucy; urgency=high
+
+  * removed roslaunch_add_file_check
+  * added robot_state_publisher to get correct tf tree
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Wed, 02 Mar 2016 23:00:00 -0000
+
+ros-indigo-innok-heros-gazebo (1.0.3-0saucy) saucy; urgency=high
+
+  * removed run  dependencies from Gazebo in package.xml
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Wed, 10 Feb 2016 23:00:00 -0000
+
+ros-indigo-innok-heros-gazebo (1.0.2-0saucy) saucy; urgency=high
+
+  * Fixed CMakeLists.txt
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Thu, 10 Dec 2015 23:00:00 -0000
+
+ros-indigo-innok-heros-gazebo (1.0.1-0saucy) saucy; urgency=high
+
+  * fixed dependencies
+  * Contributors: Sabrina Heerklotz
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Mon, 19 Oct 2015 22:00:00 -0000
+
+ros-indigo-innok-heros-gazebo (1.0.0-0saucy) saucy; urgency=high
+
+  * initial commit
+  * Contributors: Sabrina Heerklotz, Jonathan Hechtbauer
+
+ -- Sabrina Heerklotz <sh@innok-robotics.de>  Wed, 14 Oct 2015 22:00:00 -0000
+
+
